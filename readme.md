@@ -8,4 +8,6 @@
 
 ## 03. [Makefile 활용하기](https://www.youtube.com/watch?v=H-JjbSMhCUc&list=PL0vWyY_q7XP_JMzDKVbOc3aXEEDPjYTUX&index=3)
 
-## 04. [Vim 에디터]()
+## 04. [Vim 에디터](https://www.youtube.com/watch?v=au2JcgFmuMs&list=PL0vWyY_q7XP_JMzDKVbOc3aXEEDPjYTUX&index=4)
+
+## 05. [GDB 디버거]()

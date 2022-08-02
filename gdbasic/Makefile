@@ -9,7 +9,7 @@ $(TARGET): $(OBJS)
 	$(CC) -o $@ $^
 
 .c.o:
-	$(CC) -c -o $@ $<
+	$(CC) $(CFLAGS) -c -o $@ $<
 
 clean:
 	rm *.o $(TARGET)
